@@ -1,0 +1,20 @@
+.h1-class {
+    color: black;
+    font-size: 36px;
+    margin-top: 50px;
+}
+
+.btn-primary {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.btn-primary : mouseover {
+    color: red;
+    font-size: 50px;
+}
+
+#mouseout .btn-primary:focus {
+    background-color: yellow;
+}
